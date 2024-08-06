@@ -3,6 +3,7 @@
 Hey, my name is Hanna Zwolińska 👋
 
 I am a Data Analyst based in Berlin, Germany. 
+
 👨‍🎨 You can chek out my projects here *link.
 
 I specialize in Python, SQL and data visualization tools such as Tableau.
